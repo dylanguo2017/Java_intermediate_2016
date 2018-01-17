@@ -1,0 +1,39 @@
+<html> <head> <title>
+Top Stories
+</title> </head> <body>
+<h1>
+Top Stories
+</h1>
+<table>
+<tr>
+<th>
+<a href="abc.html">
+ABC News: Top Stories
+</a>
+</th></tr>
+<tr>
+<th>
+<a href="cbs.html">
+Breaking News: CBS News
+</a>
+</th></tr>
+<tr>
+<th>
+<a href="cnn.html">
+CNN.com - Top Stories
+</a>
+</th></tr>
+<tr>
+<th>
+<a href="fox.html">
+FOXNews.com
+</a>
+</th></tr>
+<tr>
+<th>
+<a href="nbc.html">
+NBCNews.com: Top NBCNews headlines
+</a>
+</th></tr>
+</table>
+</body> </html>

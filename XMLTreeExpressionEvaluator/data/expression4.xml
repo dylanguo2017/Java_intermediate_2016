@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expression>
+  <plus>
+    <minus>
+      <number value="6" />
+      <number value="9" />
+    </minus>
+    <number value="9" />
+  </plus>
+</expression>

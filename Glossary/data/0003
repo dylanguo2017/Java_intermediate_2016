@@ -1,0 +1,8 @@
+enqueue
+void enqueue(T x)
+
+dequeue
+removes and returns the entry at the front
+
+length
+report the length of this
